@@ -20,3 +20,19 @@
 *.tar.gz
 dnabert-s_eval.zip
 dnabert-s_train.zip
+# ... existing code ...
+
+.DS_Store
+.idea
+*.err
+*.out
+models
+embeddings
+
+# Data files and datasets
+*.zip
+*.npz
+*.tsv
+marine/
+plant/
+reference/
